@@ -1,7 +1,7 @@
 name: carl-notebooks
 
 dependencies:
-  - python=3.5
+  - python>=3.4
   - numpy>=0.10
   - scipy>=0.17
   - cython
@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - jupyter
   - pip:
+    - corner
     - git+https://github.com/scikit-learn/scikit-learn.git#egg=scikit-learn
     - git+https://github.com/Theano/Theano.git#egg=Theano
     - git+https://github.com/SheffieldML/GPy.git@devel#egg=GPy
