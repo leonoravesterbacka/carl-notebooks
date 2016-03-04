@@ -10,6 +10,6 @@ dependencies:
   - pip:
     - git+https://github.com/scikit-learn/scikit-learn.git#egg=scikit-learn
     - git+https://github.com/Theano/Theano.git#egg=Theano
-    - git+https://github.com/SheffieldML/GPy.git#egg=GPy
+    - git+https://github.com/SheffieldML/GPy.git@devel#egg=GPy
     - git+https://github.com/glouppe/GPyOpt.git@master-python3#egg=GPyOpt
     - git+https://github.com/diana-hep/carl.git#egg=carl
