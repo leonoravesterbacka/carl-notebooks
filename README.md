@@ -2,7 +2,7 @@
 
 For the easy way, just click on the Binder button below!
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/glouppe/carl-notebooks)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/diana-hep/carl-notebooks)
 
 
 ## Local installation
@@ -11,7 +11,7 @@ For the easy way, just click on the Binder button below!
 
 2) Clone this repository 
 ```
-git clone https://github.com/glouppe/carl-notebooks.git
+git clone https://github.com/diana-hep/carl-notebooks.git
 ```
 
 3) Setup the conda environment
