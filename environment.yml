@@ -1,7 +1,7 @@
 name: carl-notebooks
 
 dependencies:
-  - python>=3.4
+  - python=3.5
   - numpy>=0.10
   - scipy>=0.17
   - cython
