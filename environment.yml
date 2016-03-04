@@ -1,0 +1,15 @@
+name: carl-notebooks
+
+dependencies:
+  - python=3.5
+  - numpy>=0.10
+  - scipy>=0.17
+  - cython
+  - matplotlib
+  - pandas
+  - pip:
+    - git+https://github.com/scikit-learn/scikit-learn.git#egg=scikit-learn
+    - git+https://github.com/Theano/Theano.git#egg=Theano
+    - git+https://github.com/SheffieldML/GPy.git#egg=GPy
+    - git+https://github.com/glouppe/GPyOpt.git@master-python3#egg=GPyOpt
+    - git+https://github.com/diana-hep/carl.git#egg=carl
