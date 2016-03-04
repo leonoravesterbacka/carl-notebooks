@@ -1,6 +1,6 @@
 # Notebook examples from `carl`
 
-## The easy way: binder
+For the easy way, just click on the Binder button below!
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/glouppe/carl-notebooks)
 
